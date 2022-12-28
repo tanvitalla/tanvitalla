@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **tanvitalla/tanvitalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m a 2nd-year student at the University of Illinois at Urbana-Champaign studying Computer Science + Economics.
+- 🌱 I’ve written programs in Java, C++, and React JS for class projects. Next I hope to continue learning Javascript, HTML, and CSS and its use in web development and UI/UX projects!
+- 📫 You can reach me at tanvipriyatalla@gmail.com. 
