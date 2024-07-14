@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m a 3rd-year student at the University of Illinois at Urbana-Champaign studying Computer Science + Economics.
-- 🌱 I’ve written programs in Java, C++, C, Python, HTML, CSS, and React.js for class projects. Next I hope to continue learning Javascript, HTML, and CSS and its use in web development and UI/UX projects!
+- 🔭 I’m a 4th-year student at the University of Illinois at Urbana-Champaign studying Computer Science + Economics with a minor in Business.
+- 🌱 I’ve written programs in Java, C++, C, Python, HTML, CSS, and React.js for class projects. Next, I hope to continue learning Javascript, HTML, and CSS and its use in web development and UI/UX projects!
 - 📫 You can reach me at tanvipriyatalla@gmail.com. 
